@@ -31,7 +31,7 @@ If this is not simple, I **will not use it**.
 # Aims
 
 - [x] Declare project focus and aims
-- [ ] Setup project
+- [x] Setup project
 - [ ] Create currencies
 - [ ] Create simple expenses report (add expense, total expenses and show)
 - [ ] Add ''exchange rates''
