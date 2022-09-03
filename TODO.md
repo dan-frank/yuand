@@ -12,11 +12,10 @@ The VSCode extension _[TODO.md Kanban Board](https://bit.ly/3fCwKfM)_ is a handy
 - [ ] Calculate exchange rate from API  
 - [ ] Calculate investment portfolio growth **estimate** over time  
 - [ ] Make a Web / Desktop GUI  
-- [ ] Create Nix file / Nix Flake file for project dependencies and setup
+- [ ] Create Nix file / Nix Flake file for project dependencies and setup  
 
 ### Todo 📝
 
-- [ ] Create transaction [expense / income]  
 - [ ] Create currencies  
 - [ ] Add dates to transactions  
 - [ ] Create simple expenses report (add expense, total expenses and show)  
@@ -27,5 +26,8 @@ The VSCode extension _[TODO.md Kanban Board](https://bit.ly/3fCwKfM)_ is a handy
 
 ### In Progress 🔨
 
+- [ ] Create transaction [expense / income]  
 
 ### Done ✅
+
+
