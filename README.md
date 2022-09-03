@@ -18,16 +18,16 @@ If this is not simple, I **will not use it**.
 
 ---
 
-# Tools used
+## Tools used
 
 - SBT
 - Scala 3
 - ?
 
-# How to run Yuand
+## How to run Yuand
 
 ???
 
-# Releases
+## Releases
 
 - [**1.0**](https://github.com/dan-frank/yuand/releases): ???
