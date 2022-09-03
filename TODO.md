@@ -26,9 +26,5 @@ The VSCode extension _[TODO.md Kanban Board](https://bit.ly/3fCwKfM)_ is a handy
 
 ### In Progress
 
-- [ ] Setup project  
 
 ### Done ✓
-
-- [x] Declare project focus and aims  
-
