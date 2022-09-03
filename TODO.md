@@ -2,7 +2,7 @@
 
 The VSCode extension _[TODO.md Kanban Board](https://bit.ly/3fCwKfM)_ is a handy plugin for managing this file.
 
-### Idea
+### Idea 💡
 
 - [ ] Repeatable object inputs (to save time)  
 - [ ] Customisable notification when for repeatable expense  
@@ -14,7 +14,7 @@ The VSCode extension _[TODO.md Kanban Board](https://bit.ly/3fCwKfM)_ is a handy
 - [ ] Make a Web / Desktop GUI  
 - [ ] Create Nix file / Nix Flake file for project dependencies and setup
 
-### Todo
+### Todo 📝
 
 - [ ] Create transaction [expense / income]  
 - [ ] Create currencies  
@@ -25,7 +25,7 @@ The VSCode extension _[TODO.md Kanban Board](https://bit.ly/3fCwKfM)_ is a handy
 - [ ] Create saving groups / pots  
 - [ ] Show expenses by dates  
 
-### In Progress
+### In Progress 🔨
 
 
-### Done ✓
+### Done ✅
