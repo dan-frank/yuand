@@ -52,4 +52,5 @@ If this is not simple, I **will not use it**.
 
 - Calculate currencies as items are added to Yuand.
   - This will make sure that we can accurately track the spending and income or even exchange rates over time
+  - _Alternative_: Track conversion rate for each transacrion and only one price
 
