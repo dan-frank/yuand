@@ -6,7 +6,9 @@ This includes managing:
 - Income (Wages, other)
 - Savings (How much should I save + what are we saving for, investments growth)
 
-See [TODO.md](./TODO.md) for our ideas, future, ongoing and completed tasks.
+See [our todo list](./TODO.md) for our ideas, future, ongoing and completed tasks.
+
+See [our ideas list](./IDEA.md) for an expanded description or loose rambling of ideas for the project.
 
 ---
 **FOCUS REMINDER**
@@ -19,7 +21,7 @@ If this is not simple, I **will not use it**.
 # Tools used
 
 - SBT
-- Scala
+- Scala 3
 - ?
 
 # How to run Yuand
@@ -29,11 +31,3 @@ If this is not simple, I **will not use it**.
 # Releases
 
 - [**1.0**](https://github.com/dan-frank/yuand/releases): ???
-
-# _Expanded Ideas_
-
-## Currencies
-
-- Calculate currencies as items are added to Yuand.
-  - This will make sure that we can accurately track the spending and income or even exchange rates over time
-  - _Alternative_: Track conversion rate for each transacrion and only one price
